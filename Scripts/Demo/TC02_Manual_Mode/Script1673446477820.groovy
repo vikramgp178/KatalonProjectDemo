@@ -27,5 +27,5 @@ WebUI.setEncryptedText(findTestObject('02_Orange_HRM/Page_OrangeHRM/input_Passwo
 
 WebUI.click(findTestObject('02_Orange_HRM/Page_OrangeHRM/button_Login'))
 
-WebUI.verifyTextPresent('Dashboard', false)
+WebUI.verifyTextPresent('Dashboards', false)
 
