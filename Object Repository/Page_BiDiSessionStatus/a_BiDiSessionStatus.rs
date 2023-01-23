@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BiDiSessionStatus</name>
+   <tag></tag>
+   <elementGuidId>c7b4d7b6-7c86-46ae-b75f-9859fba3ca1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'BiDiSessionStatus')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.memberNameLink > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>433e8bb0-693f-4803-8aa4-87b47e7a5794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#%3Cinit%3E(boolean,java.lang.String)</value>
+      <webElementGuid>9ec05444-757d-4a5c-821a-0c33096ce878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BiDiSessionStatus</value>
+      <webElementGuid>e1623299-4757-42a3-aaf4-be3b279bd990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;contentContainer&quot;]/div[@class=&quot;summary&quot;]/ul[@class=&quot;blockList&quot;]/li[@class=&quot;blockList&quot;]/section[1]/ul[@class=&quot;blockList&quot;]/li[@class=&quot;blockList&quot;]/table[@class=&quot;memberSummary&quot;]/tbody[1]/tr[@class=&quot;altColor&quot;]/th[@class=&quot;colConstructorName&quot;]/code[1]/span[@class=&quot;memberNameLink&quot;]/a[1]</value>
+      <webElementGuid>32659b3f-744f-46f2-82e8-5a451558e29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_BiDiSessionStatus/iframe_classFrame</value>
+      <webElementGuid>dcc55e11-a019-4307-9a2d-237161255e3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BiDiSessionStatus')]</value>
+      <webElementGuid>6d9f58b4-6b8a-4194-ab93-379b5a7d8e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::a[1]</value>
+      <webElementGuid>4a627b0f-02a8-403c-be19-ba0a829d25ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Method Summary'])[1]/preceding::a[2]</value>
+      <webElementGuid>547fae37-23da-47ba-a2c0-f673f91f1a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Methods'])[1]/preceding::a[2]</value>
+      <webElementGuid>669808a2-33ce-4e40-be30-062dc8656b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#%3Cinit%3E(boolean,java.lang.String)')]</value>
+      <webElementGuid>1e5fb65e-4dfb-4543-8590-ccea25f151e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>e6edd2cb-caf2-411f-88e0-88cd60519679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#%3Cinit%3E(boolean,java.lang.String)' and (text() = 'BiDiSessionStatus' or . = 'BiDiSessionStatus')]</value>
+      <webElementGuid>4720adb2-91d6-45de-8987-f4a46e638c13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

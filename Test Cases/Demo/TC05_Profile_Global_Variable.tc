@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Profile_Global_Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1f08600-01a1-4277-8517-0450974fd44f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>876495e9-88f2-49bf-be89-eebb9565f555</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'localVaraible'</defaultValue>
+      <description></description>
+      <id>876495e9-88f2-49bf-be89-eebb9565f555</id>
+      <masked>false</masked>
+      <name>UsernameFromLocalVariable</name>
+   </variable>
+</TestCaseEntity>

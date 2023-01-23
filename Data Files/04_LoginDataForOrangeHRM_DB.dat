@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>04_LoginDataForOrangeHRM_DB</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>95bfd7cc-a93f-4f88-9123-71f3b2927636</dataFileGUID>
+   <dataSourceUrl>jdbc:sqlite:C:\Users\VikramPhatangare\AppData\Roaming\DBeaverData\workspace6\.metadata\sample-database-sqlite-1\Chinook.db</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName>SQLite</driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password></password>
+   <query>select * from LoginData</query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <user></user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

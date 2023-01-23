@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AboutCompany Name OrangeHRMVersion Oran_baf6b6</name>
+   <tag></tag>
+   <elementGuidId>3d7fdadb-c6ca-4876-b718-8c4febe7876a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-dialog-container-default--inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>acbdccf6-d889-4e95-9db6-2a1dde9804ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-dialog-container-default--inner</value>
+      <webElementGuid>75d6396f-04a1-4df7-88eb-4384cd0614f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×AboutCompany Name: OrangeHRMVersion: OrangeHRM OS 5.3Active Employees: 47Employees Terminated: 0</value>
+      <webElementGuid>c111d865-93b8-4fcd-afb6-fc2511882cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-overlay oxd-overlay--flex oxd-overlay--flex-centered&quot;]/div[@class=&quot;oxd-dialog-container-default&quot;]/div[@class=&quot;oxd-dialog-container-default--inner&quot;]</value>
+      <webElementGuid>cde9e4e8-78d2-4caf-b635-2b1e4b1dfeff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div</value>
+      <webElementGuid>dbf6f36a-e4df-4f4e-a3d8-ef3fa7ee9ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/following::div[3]</value>
+      <webElementGuid>59d60215-7160-444b-9aa0-4aeaa2592843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>21d90020-8abf-4437-9e21-1e7a6d93bddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '×AboutCompany Name: OrangeHRMVersion: OrangeHRM OS 5.3Active Employees: 47Employees Terminated: 0' or . = '×AboutCompany Name: OrangeHRMVersion: OrangeHRM OS 5.3Active Employees: 47Employees Terminated: 0')]</value>
+      <webElementGuid>fee48290-ab59-41cf-a01a-c7b43b89353f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

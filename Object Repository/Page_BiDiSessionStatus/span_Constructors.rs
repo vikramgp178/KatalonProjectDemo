@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Constructors</name>
+   <tag></tag>
+   <elementGuidId>c2293a3a-f971-4ab8-a8e0-a7357abe5598</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Constructor Summary'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>caption > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee547826-05ff-41e3-b8dd-ccb099630a57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Constructors</value>
+      <webElementGuid>3132aaf3-7dfc-41da-beaf-5fcc79826e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;contentContainer&quot;]/div[@class=&quot;summary&quot;]/ul[@class=&quot;blockList&quot;]/li[@class=&quot;blockList&quot;]/section[1]/ul[@class=&quot;blockList&quot;]/li[@class=&quot;blockList&quot;]/table[@class=&quot;memberSummary&quot;]/caption[1]/span[1]</value>
+      <webElementGuid>9aa13750-0c2a-461c-bbbe-cb9c206cb908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_BiDiSessionStatus/iframe_classFrame</value>
+      <webElementGuid>b60935af-b027-4c37-ae67-51dcefee6708</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Constructor Summary'])[1]/following::span[1]</value>
+      <webElementGuid>f95513b5-878a-4934-8b4a-58badfc040f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BiDiSessionStatus'])[2]/following::span[1]</value>
+      <webElementGuid>75ee68b7-102c-4ec2-9bc6-be3c3b423bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Constructor'])[1]/preceding::span[2]</value>
+      <webElementGuid>d0ad6412-d27f-46d4-855b-1f89e5aada7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::span[2]</value>
+      <webElementGuid>ceb27442-dde6-4b9b-ab9f-68863878d976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Constructors']/parent::*</value>
+      <webElementGuid>76af3164-792e-4bce-9bdb-ad04b1176058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//caption/span</value>
+      <webElementGuid>f37210fa-ad9c-44ba-9fa4-6e7dc966dd5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Constructors' or . = 'Constructors')]</value>
+      <webElementGuid>227e3f56-48f5-4ce0-8dfa-7957c1c7cc5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
