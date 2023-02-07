@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>df0bec85-4990-4e11-92f2-b383a84dd670</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tox-collection__item-icon > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Elemental Selenium'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>140d7712-b40f-4b3f-a5de-3f651afcfeca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>32ca911d-fb9f-4b61-b2db-723bdbf5781f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>b7dbf83a-cbf4-466a-bd22-94aa53b65575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5756bae9-3e4f-4f8f-962c-4bd36b1cda5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aria-owns_5663373641631675175010700&quot;)/div[@class=&quot;tox-tiered-menu&quot;]/div[@class=&quot;tox-menu tox-collection tox-collection--list tox-selected-menu&quot;]/div[@class=&quot;tox-collection__group&quot;]/div[@class=&quot;tox-menu-nav__js tox-collection__item tox-collection__item--active&quot;]/div[@class=&quot;tox-collection__item-icon&quot;]/svg[1]</value>
+      <webElementGuid>c0a9c5db-885a-4449-9aa1-b236ca1214e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elemental Selenium'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8464e1b7-5763-4a3e-b3da-513a1fef3a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New document'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ec3d7f8d-cbf8-4515-a4a1-a26a25967e12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

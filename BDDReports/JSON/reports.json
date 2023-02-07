@@ -1,0 +1,160 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Verify Login fnuctionality with valid credentials",
+        "description": "",
+        "id": "login-test;verify-login-fnuctionality-with-valid-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22124554000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on login screen",
+            "match": {
+              "location": "LoginTestCode.user_is_on_login_screen()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4743834000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters the valid username and password",
+            "match": {
+              "location": "LoginTestCode.user_enters_the_valid_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1214881500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "clicks on login button",
+            "match": {
+              "location": "LoginTestCode.clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 17681118300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user navigated to homepage",
+            "match": {
+              "location": "LoginTestCode.user_navigated_to_homepage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Login test",
+    "description": "",
+    "id": "login-test",
+    "keyword": "Feature",
+    "uri": "Include/features/01_LoginTest.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 13,
+        "name": "Verify Login fnuctionality with valid credentials using Scenario Outline",
+        "description": "",
+        "id": "login-test-using-scenario-outline;verify-login-fnuctionality-with-valid-credentials-using-scenario-outline;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15858839000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on login screen",
+            "match": {
+              "location": "LoginTestCode.user_is_on_login_screen()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4748606300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters the valid Admin and admin123 test",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 22
+                },
+                {
+                  "val": "admin123",
+                  "offset": 32
+                }
+              ],
+              "location": "LoginTestCode.user_enters_the_valid_username_and_password_test(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2993431000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "clicks on login button",
+            "match": {
+              "location": "LoginTestCode.clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 17000317000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user navigated to homepage",
+            "match": {
+              "location": "LoginTestCode.user_navigated_to_homepage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      }
+    ],
+    "name": "Login test using Scenario Outline",
+    "description": "",
+    "id": "login-test-using-scenario-outline",
+    "keyword": "Feature",
+    "uri": "Include/features/LoginTestUsingScenarioOutline.feature",
+    "tags": []
+  }
+]

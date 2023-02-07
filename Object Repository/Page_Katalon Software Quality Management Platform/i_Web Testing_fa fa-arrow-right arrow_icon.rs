@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Web Testing_fa fa-arrow-right arrow_icon</name>
+   <tag></tag>
+   <elementGuidId>433fd6e4-9a93-47eb-bf7f-f1e6ab917495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.solutions_list > a.item > div.content_col > div.content_title > i.fa.fa-arrow-right.arrow_icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section[2]/div/div/div/div[3]/div[2]/div/div[2]/div/a/div[2]/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>85145ab4-8f3f-420d-85cb-150035e9fdae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-arrow-right arrow_icon</value>
+      <webElementGuid>e0f77247-da1a-459a-9ac9-078d8f12552e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_logo_and_topnav&quot;]/div[@class=&quot;katalon_topnav&quot;]/div[@class=&quot;top_nav_item have_child_menu&quot;]/div[@class=&quot;top_nav_dropdown solutions&quot;]/div[@class=&quot;content_container&quot;]/div[@class=&quot;right_content&quot;]/div[@class=&quot;solutions_list&quot;]/a[@class=&quot;item&quot;]/div[@class=&quot;content_col&quot;]/div[@class=&quot;content_title&quot;]/i[@class=&quot;fa fa-arrow-right arrow_icon&quot;]</value>
+      <webElementGuid>6b8c0830-c442-4550-8568-8e3289ee1215</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section[2]/div/div/div/div[3]/div[2]/div/div[2]/div/a/div[2]/div/i</value>
+      <webElementGuid>7e83aa15-0c8b-495b-9f09-0beb9303a302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div[2]/div/i</value>
+      <webElementGuid>0c8664e0-9a38-493b-beac-b9fc3fdf8590</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

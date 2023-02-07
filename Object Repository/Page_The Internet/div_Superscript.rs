@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Superscript</name>
+   <tag></tag>
+   <elementGuidId>5356784a-c0d4-4c18-ab22-1b590d2df82e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tox-menu-nav__js.tox-collection__item.tox-collection__item--active > div.tox-collection__item-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='aria-owns_9248807492631675175023471']/div/div/div/div[5]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2f9f3be-fd33-4a8e-8715-1272d766d062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tox-collection__item-label</value>
+      <webElementGuid>0bc40e8c-b5ba-4f93-afc1-170e9f5df199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Superscript</value>
+      <webElementGuid>08c2e38f-9c13-4de1-a12c-bc09f8855190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aria-owns_9248807492631675175023471&quot;)/div[@class=&quot;tox-tiered-menu&quot;]/div[@class=&quot;tox-menu tox-collection tox-collection--list tox-selected-menu&quot;]/div[@class=&quot;tox-collection__group&quot;]/div[@class=&quot;tox-menu-nav__js tox-collection__item tox-collection__item--active&quot;]/div[@class=&quot;tox-collection__item-label&quot;]</value>
+      <webElementGuid>af65bc34-2b1c-46e6-9658-dc77053b1c3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aria-owns_9248807492631675175023471']/div/div/div/div[5]/div[2]</value>
+      <webElementGuid>42025baf-c059-4e97-8881-7ff2dabf716c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Strikethrough'])[1]/following::div[4]</value>
+      <webElementGuid>41a89d37-be14-4794-a5ca-55af08464dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ctrl+U'])[1]/following::div[7]</value>
+      <webElementGuid>fe8839ea-104f-455f-9521-c6c5a2a6a5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscript'])[1]/preceding::div[3]</value>
+      <webElementGuid>0aec58b4-0401-4fa6-8788-55bcbd9b7c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[1]/preceding::div[7]</value>
+      <webElementGuid>e19d009b-5182-4226-b052-54440b86fe93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Superscript']/parent::*</value>
+      <webElementGuid>36848ba3-c4be-4e16-96ff-408f73941a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]</value>
+      <webElementGuid>3281ec16-2b98-45d6-866b-d3c11f5f24c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Superscript' or . = 'Superscript')]</value>
+      <webElementGuid>280db6a4-ad3b-4eff-b23e-44e2cedb2977</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

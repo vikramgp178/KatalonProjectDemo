@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_API TestingAutomated REST and GraphQL API_cbf090</name>
+   <tag></tag>
+   <elementGuidId>2560ca65-8d4d-4fa4-91b9-56409f5ffb9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section[2]/div/div/div/div[3]/div[2]/div/div[2]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ae490db2-98fb-41f6-9b51-77ef66601fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item</value>
+      <webElementGuid>18da5c0f-ebc8-42b5-bf52-4e82ad1bf830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/api-testing</value>
+      <webElementGuid>698741fa-b1ca-443f-84df-22533fb51419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>API TestingAutomated REST and GraphQL API testing.</value>
+      <webElementGuid>79af9de0-83ea-4627-a543-902ceb2a8f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_logo_and_topnav&quot;]/div[@class=&quot;katalon_topnav&quot;]/div[@class=&quot;top_nav_item have_child_menu&quot;]/div[@class=&quot;top_nav_dropdown solutions&quot;]/div[@class=&quot;content_container&quot;]/div[@class=&quot;right_content&quot;]/div[@class=&quot;solutions_list&quot;]/a[@class=&quot;item&quot;]</value>
+      <webElementGuid>bb9a829e-3765-437d-9c41-834b42e0172f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section[2]/div/div/div/div[3]/div[2]/div/div[2]/div/a[2]</value>
+      <webElementGuid>044261e1-febb-404c-a95d-e553bb0cc6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Robust solution for end-to-end web automated testing.'])[1]/following::a[1]</value>
+      <webElementGuid>a0d6cf7e-c490-493a-86a1-dd328de9e664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Testing'])[1]/following::a[1]</value>
+      <webElementGuid>d10ac038-5cc3-4b11-a11f-034021502dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/api-testing')]</value>
+      <webElementGuid>c9603af5-210b-4bcb-bb62-34f6c9337487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>2ea73433-9da6-4aee-ad47-eaf5f65a7839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/api-testing' and (text() = 'API TestingAutomated REST and GraphQL API testing.' or . = 'API TestingAutomated REST and GraphQL API testing.')]</value>
+      <webElementGuid>301cccb0-ca09-4ad6-87f6-20a3fde771ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

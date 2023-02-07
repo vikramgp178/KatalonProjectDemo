@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Format</name>
+   <tag></tag>
+   <elementGuidId>ec850e7d-3783-4daa-8695-07036812a1c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.tox-mbtn.tox-mbtn--select.tox-mbtn--active > span.tox-mbtn__select-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div/div/button[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cecf18a8-8feb-48bd-8ea4-dfe4f0f8d19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tox-mbtn__select-label</value>
+      <webElementGuid>a1b77899-9c1c-4e98-9ebe-4138470bba63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Format</value>
+      <webElementGuid>93cbcf5f-11cb-48c4-afa3-194b50a4799a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;example&quot;]/div[@class=&quot;tox tox-tinymce&quot;]/div[@class=&quot;tox-editor-container&quot;]/div[@class=&quot;tox-editor-header&quot;]/div[@class=&quot;tox-menubar&quot;]/button[@class=&quot;tox-mbtn tox-mbtn--select tox-mbtn--active&quot;]/span[@class=&quot;tox-mbtn__select-label&quot;]</value>
+      <webElementGuid>21ba45de-4329-4104-849e-a2529c715b37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div/div/button[4]/span</value>
+      <webElementGuid>434a9a0b-64da-494f-8e6a-e312864115bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::span[1]</value>
+      <webElementGuid>fb0aeb34-f5f2-48c6-84d4-15f22359b2ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::span[2]</value>
+      <webElementGuid>eaf4ebe8-a165-4de3-973f-082d0b313037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Italic'])[1]/preceding::span[3]</value>
+      <webElementGuid>724f210f-2e2e-4857-b21a-bb9865953c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='p'])[1]/preceding::span[12]</value>
+      <webElementGuid>846382a0-2236-458c-a2c5-85a19dfb71b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Format']/parent::*</value>
+      <webElementGuid>47ab6eca-7433-4ed2-8403-ac84651e5897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]/span</value>
+      <webElementGuid>4c9eeaca-2c08-414f-bf86-d0e8595e2a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Format' or . = 'Format')]</value>
+      <webElementGuid>b95f4aab-3a15-4c8c-8e3e-340f11f164ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

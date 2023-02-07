@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>61e7d859-a55c-4ba0-b5d8-a7ab06ccb00b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>66a2bb77-2fca-4fdd-831c-59091275b67b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M5 5h14c.6 0 1 .4 1 1s-.4 1-1 1H5a1 1 0 110-2zm0 4h8c.6 0 1 .4 1 1s-.4 1-1 1H5a1 1 0 110-2zm0 8h8c.6 0 1 .4 1 1s-.4 1-1 1H5a1 1 0 010-2zm0-4h14c.6 0 1 .4 1 1s-.4 1-1 1H5a1 1 0 010-2z</value>
+      <webElementGuid>75fd7826-f57f-4291-961a-3f643ac13a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>562edcae-a6b4-4a80-a7f2-b089a8ab9a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;example&quot;]/div[@class=&quot;tox tox-tinymce&quot;]/div[@class=&quot;tox-editor-container&quot;]/div[@class=&quot;tox-editor-header&quot;]/div[@class=&quot;tox-toolbar-overlord&quot;]/div[@class=&quot;tox-toolbar__primary&quot;]/div[@class=&quot;tox-toolbar__group&quot;]/button[@class=&quot;tox-tbtn&quot;]/span[@class=&quot;tox-icon tox-tbtn__icon-wrap&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>5be6ee19-2ef4-404c-bbc0-0a1eb55e4cfe</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

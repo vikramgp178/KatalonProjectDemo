@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Business Outcomes</name>
+   <tag></tag>
+   <elementGuidId>5c9ffea1-6d28-4281-bdfd-d57577766d7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.content_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section[2]/div/div/div/div/div[2]/div/div/div/a/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>58a02ed6-fb59-4904-81bc-f4e7a02c7265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content_title</value>
+      <webElementGuid>064f882d-f2a1-4438-90be-2500c2724336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Business Outcomes</value>
+      <webElementGuid>5c9b97b4-f98a-476a-b9a8-0df30703932f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_logo_and_topnav&quot;]/div[@class=&quot;katalon_topnav&quot;]/div[@class=&quot;top_nav_item have_child_menu&quot;]/div[@class=&quot;top_nav_dropdown why_katalon&quot;]/div[@class=&quot;content_container&quot;]/div[@class=&quot;left_content&quot;]/div[@class=&quot;business_outcome_and_success_stories&quot;]/a[@class=&quot;item&quot;]/div[@class=&quot;content_col&quot;]/div[@class=&quot;content_title&quot;]</value>
+      <webElementGuid>59b4445c-f860-4029-aa36-adc4bf968b31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section[2]/div/div/div/div/div[2]/div/div/div/a/div[2]/div</value>
+      <webElementGuid>fd8e3a59-2d69-43e6-8c19-c7a3e03a0106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read more'])[1]/following::div[4]</value>
+      <webElementGuid>1d43da5e-6ecc-4168-93c1-de2cd7a0b7ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Katalon'])[2]/following::div[6]</value>
+      <webElementGuid>ded7ea88-524a-4784-8af5-b2f3da568976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A digital transformation success with software testing'])[1]/preceding::div[1]</value>
+      <webElementGuid>80710b87-4ee8-4c5d-89fa-322c4cc2e682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success Stories'])[1]/preceding::div[3]</value>
+      <webElementGuid>f1a6d07f-25af-447c-b11d-b19ce64c401d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Business Outcomes']/parent::*</value>
+      <webElementGuid>340c707f-80fa-4aea-aa65-c5be02956987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]/div</value>
+      <webElementGuid>e28398c6-63c8-4ded-af66-7c09434ee0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Business Outcomes' or . = 'Business Outcomes')]</value>
+      <webElementGuid>f4221cc3-49a0-405f-92f7-d2cb1f8c361f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
