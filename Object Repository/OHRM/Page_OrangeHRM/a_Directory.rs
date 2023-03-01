@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_PIM</name>
+   <name>a_Directory</name>
    <tag></tag>
-   <elementGuidId>81d71253-bd0b-4a4e-97bf-73e9a793e0cf</elementGuidId>
+   <elementGuidId>acb1f423-b174-491a-bc84-9352e4dee95e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[2]/a</value>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[9]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>a.oxd-main-menu-item.active</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>024c3320-562c-40b5-94dd-d1a55fffc72c</webElementGuid>
+      <webElementGuid>5bde3702-1eab-4426-b83a-45b8963664a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-main-menu-item</value>
-      <webElementGuid>3b13f4f0-9c61-4767-aaa9-a1486ae55f26</webElementGuid>
+      <value>oxd-main-menu-item active</value>
+      <webElementGuid>1fb9f38a-b24c-48e7-b68c-8a54400c1364</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/web/index.php/pim/viewPimModule</value>
-      <webElementGuid>585b12a5-3dff-49ef-b5b9-dbdbadc20c35</webElementGuid>
+      <value>/web/index.php/directory/viewDirectory</value>
+      <webElementGuid>104a4eca-1770-4123-b37c-fe73c91def44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>PIM</value>
-      <webElementGuid>4b83bb8b-fe8d-4b8f-9817-0fa6cab6f99f</webElementGuid>
+      <value>Directory</value>
+      <webElementGuid>2bf8e177-0c44-4a78-ac41-49aa806e61b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]</value>
-      <webElementGuid>15fb756d-0c3d-4828-be91-41ab974e413d</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item active&quot;]</value>
+      <webElementGuid>b75979db-3c13-4cd6-a37d-800f57c24fa3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[2]/a</value>
-      <webElementGuid>71247304-2b86-41c1-93d2-b1ae95bd3ee4</webElementGuid>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[9]/a</value>
+      <webElementGuid>1ccbeeb7-79ac-4593-b267-9687ddbe418b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/web/index.php/pim/viewPimModule')]</value>
-      <webElementGuid>a8195f09-333a-44b5-ad20-169b128fa0db</webElementGuid>
+      <value>//a[contains(@href, '/web/index.php/directory/viewDirectory')]</value>
+      <webElementGuid>ab1aad7b-03f1-4701-98bc-f7dca997c5af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/a</value>
-      <webElementGuid>c5902101-27a9-47df-bdc3-52586aacd797</webElementGuid>
+      <value>//li[9]/a</value>
+      <webElementGuid>1ffc63a2-1330-49de-9fc9-9f4025357a2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/web/index.php/pim/viewPimModule' and (text() = 'PIM' or . = 'PIM')]</value>
-      <webElementGuid>9576b4f3-aa92-4862-94e6-fc6e422586f5</webElementGuid>
+      <value>//a[@href = '/web/index.php/directory/viewDirectory' and (text() = 'Directory' or . = 'Directory')]</value>
+      <webElementGuid>4e1f5ba2-a7b8-43b8-b56a-63a8b50bfd2e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
